@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --cor-primaria: #021526;
+  --cor-secundaria: #e2e2b6;
+  --cor-terciaria: #6eacda;
+  --cor-hover: #03346e;
+
+  --fonte-primaria: "Krona One", sans-serif;
+  --fonte-secundaria: "Montserrat", sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+}
+
+.apresentacao {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5% 15%;
+}
+
+.apresentacao-conteudo {
+  max-width: 615px;
+  flex-direction: column;
+  gap: 40px;
+  display: flex;
+}
+
+.apresentacao-conteudo-titulo {
+  font-size: 36px;
+  font-family: var(--fonte-primaria);
+}
+
+.title-destaque {
+  color: var(--cor-terciaria);
+}
+
+.apresentacao-conteudo-texto {
+  font-size: 24px;
+  font-family: var(--fonte-secundaria);
+  font-weight: 400;
+}
+
+.apresentacao__conteudo__texto a {
+  color: var(--cor-terciaria);
+}
+
+.aprensentacao-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aprensentacao-links-subtitulo {
+  font-family: var(--fonte-primaria);
+  font-weight: 400;
+  font-size: 24px;
+}
+.aprensentacao-links-link {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  border: 2px solid var(--cor-terciaria);
+  width: 378px;
+  align-items: center;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 20px 0;
+  color: var(--cor-secundaria);
+  cursor: pointer;
+  font-family: var(--fonte-secundaria);
+  font-weight: 600;
+  transition: all 0.4s ease-in-out;
+}
+
+.aprensentacao-links-link:hover {
+  background-color: var(--cor-hover);
+  transform: scale(1.08);
+}
+
+.rodape {
+  background-color: var(--cor-terciaria);
+  color: var(--cor-primaria);
+  padding: 24px;
+  text-align: center;
+  font-family: var(--fonte-secundaria);
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cabecalho {
+  padding: 2% 0% 0% 15%;
+}
+
+.cabecalho-menu {
+  display: flex;
+  gap: 80px;
+}
+
+.cabecalho-menu-link {
+  font-size: 18px;
+  color: var(--cor-terciaria);
+  margin: 0 10px;
+  padding: 10px 15px;
+  font-family: var(--fonte-secundaria);
+  font-weight: 400;
+  font-size: 24p;
+}
+
+.cabecalho-menu-link:hover {
+  color: var(--cor-hover);
+  font-weight: bold;
+}
+
+.aprensentacao-links-link-icon {
+  color: var(--cor-terciaria);
+  width: 32px;
+  height: 32px;
+}
