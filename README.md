@@ -1,4 +1,5 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio, desenvolvido com base das aulas do Curso Iniciante em Programação G8 - ONE, que é uma parceria Oracle com a Alura.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio
+## Desenvolvido com base das aulas do Curso Iniciante em Programação G8 - ONE, que é uma parceria Oracle com a Alura.
 
 ![image](assets/image.png)
 
