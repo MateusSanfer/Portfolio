@@ -1,15 +1,11 @@
-# Olá, Bem vindo ao meu projeto de portfólio
-## Desenvolvido com base das aulas do Curso Iniciante em Programação G8 - ONE, que é uma parceria Oracle com a Alura.
+# Olá, Bem vindo ao meu projeto de portfólio este é um projeto de portfólio desenvolvido para apresentar minhas habilidades e projetos como desenvolvedor. Aqui você encontrará informações sobre as tecnologias que utilizo, exemplos de trabalhos realizados e links para contato profissional. Sinta-se à vontade para explorar e conhecer mais sobre meu trabalho!
 
 ![image](assets/image.png)
 
 ## Ferramentas utilizadas:
 
-* HTML
-
-* CSS
-
-* Flex-box
+* React
+* Tailwind CSS
  
 ## Veja você mesmo no link:
 
@@ -22,4 +18,4 @@ https://portfolio-ha3tt5tbb-mateus-sanfers-projects.vercel.app/
 
 ---
 ### Meu Linkedin: https://www.linkedin.com/in/mateus-sanfer/
-### Linkedin Alura: https://www.linkedin.com/school/aluracursos/
+
