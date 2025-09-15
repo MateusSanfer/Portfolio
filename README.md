@@ -1,6 +1,8 @@
-# Olá, Bem vindo ao meu projeto de portfólio este é um projeto de portfólio desenvolvido para apresentar minhas habilidades e projetos como desenvolvedor. Aqui você encontrará informações sobre as tecnologias que utilizo, exemplos de trabalhos realizados e links para contato profissional. Sinta-se à vontade para explorar e conhecer mais sobre meu trabalho!
+# Olá, Bem vindo ao meu projeto de portfólio!
 
-![image](assets/image.png)
+Este é um projeto de portfólio desenvolvido para apresentar minhas habilidades e projetos como desenvolvedor. Aqui você encontrará informações sobre as tecnologias que utilizo, exemplos de trabalhos realizados e links para contato profissional. Sinta-se à vontade para explorar e conhecer mais sobre meu trabalho!
+
+![image](src/assets/image.png)
 
 ## Ferramentas utilizadas:
 
