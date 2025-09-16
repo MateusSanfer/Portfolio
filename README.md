@@ -11,7 +11,7 @@ Este é um projeto de portfólio desenvolvido para apresentar minhas habilidades
  
 ## Veja você mesmo no link:
 
-https://meuportfoliomateussanfer.netlify.app/
+https://mateussanfer.netlify.app/
 
 ## 🧑🏾‍💻 Feito por:
 
