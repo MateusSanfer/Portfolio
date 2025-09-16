@@ -82,7 +82,7 @@ export default function Contact() {
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
-              Name
+              Nome
             </label>
             <input
               type="text"
