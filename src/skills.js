@@ -5,6 +5,7 @@ const skills = [
   { habilidade: "Node.js" },
   { habilidade: "PHP" },
   { habilidade: "Java" },
+  { habilidade: "MySql" },
   { habilidade: "Git" },
   { habilidade: "GitHub" },
 ];

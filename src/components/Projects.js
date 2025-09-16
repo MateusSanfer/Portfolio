@@ -11,9 +11,10 @@ export default function Projects() {
             Apps que eu construir
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            Abaixo estão alguns projetos que desenvolvi utilizando tecnologias
+            como JavaScript, React, Node.js e Firebase. Eles refletem minha
+            capacidade de criar interfaces modernas, funcionais e integradas a
+            serviços de back-end.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -35,9 +36,7 @@ export default function Projects() {
                     className="absolute inset-0 w-full h-full object-cover object-center"
                   />
                   {/* Overlay: aparece ao passar o mouse */}
-                  <div
-                    className="absolute inset-0 z-10 flex flex-col justify-start px-6 py-6 border-4 border-gray-800 bg-gray-900 bg-opacity-80 opacity-0 hover:opacity-100 transition-opacity duration-300"
-                  >
+                  <div className="absolute inset-0 z-10 flex flex-col justify-start px-6 py-6 border-4 border-gray-800 bg-gray-900 bg-opacity-80 opacity-0 hover:opacity-100 transition-opacity duration-300">
                     <div>
                       <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
                         {project.subtitle}

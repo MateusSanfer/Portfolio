@@ -1,4 +1,4 @@
-import code from "./assets/code2.png";
+import cesta from "./assets/cesta.png";
 import sgb from "./assets/sgb.png"
 import apocalipticos from "./assets/apocalipticos.png"
 import code3 from "./assets/code3.jpg"
@@ -19,12 +19,12 @@ const projects = [
     image: apocalipticos,
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Cestas Da Nanda - Loja Online",
+    subtitle: "React+vite, Mysql, Node.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: code,
-    link: "https://jsbootcamp.com",
+      "Cestas Da Nanda é uma loja online desenvolvida com React.js que permite aos clientes personalizar e adquirir cestas de presente de forma prática e intuitiva. A plataforma oferece uma experiência fluida, desde a escolha da cesta até o pagamento, proporcionando um serviço personalizado.",
+    image: cesta,
+    link: "https://github.com/MateusSanfer/cestas-da-nanda",
   },
   {
     title: "Epic Todo App",
