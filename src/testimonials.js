@@ -11,7 +11,7 @@ const testimonials = [
 {
   name: "Turmalina",
   company: "Golofin",
-  quote: "O benefício de se usar o React é que podemos expandir nossa aplicação, tendo quantas páginas quisermos, de modo muito simples, e adicionar muito conteúdo adicional.",
+  quote: "O benefício de se usar o React é que podemos expandir nossa aplicação, tendo .",
   image: perfil2
 }
 ];
