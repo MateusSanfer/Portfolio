@@ -6,16 +6,20 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Olá, Eu sou Mateus Sanfer.
-            <br className="hidden lg:inline-block" /> Eu amo fazer o amo, seja o
-            quê isso queira dizer!
+            Olá, eu sou Mateus Sanfer.
+            <br className="hidden lg:inline-block" /> Apaixonado por tecnologia
+            e por transformar ideias em soluções reais.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde
-            tenetur quae soluta autem ex nulla illo, a, voluptas accusamus
-            magnam enim tempora deserunt labore? Dolorem dolorum nobis nisi
-            aliquam tempore!
+            Sou formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e
+            atualmente curso graduação em Análise e Desenvolvimento de Sistemas.
+            Tenho grande interesse em criar projetos que automatizem processos e
+            desenvolvam sistemas úteis no dia a dia das pessoas — ou até tragam
+            momentos de descontração entre amigos. No momento, busco
+            oportunidades para aprender na prática e entender mais sobre o
+            funcionamento do mercado de tecnologia.
           </p>
+
           <div className="flex justify-center">
             <a
               href="#contact"
@@ -32,7 +36,8 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img className="object-cover object-center rounded"
+          <img
+            className="object-cover object-center rounded"
             src={perfil}
             alt="Mateus Sanfer"
           />

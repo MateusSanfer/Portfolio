@@ -48,12 +48,12 @@ export default function Contact() {
                 href="mailto:mateus.f1teste@gmail.com"
                 className="text-indigo-400 leading-relaxed"
               >
-                mateus.f1teste@gmail.com
+                mateus.sanfer@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 CELULAR
               </h2>
-              <p className="leading-relaxed">(71)98821-0860</p>
+              <p className="leading-relaxed">(71)98821-0680</p>
             </div>
           </div>
         </div>
